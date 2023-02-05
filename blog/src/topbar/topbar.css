@@ -28,6 +28,8 @@
 }
 .topListItem{
     margin-right: 50px;
+    font-size: 18px;
+    font-weight: 700;
     cursor: pointer;
 }
 

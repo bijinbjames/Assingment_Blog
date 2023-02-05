@@ -1,8 +1,12 @@
+import Header from "./header/Header";
+import Home from "./pages/home/Home";
 import Topbar from "./topbar/topbar";
 
 function App() {
-  return (
+  return (<>
     <Topbar/>
+    <Home/>
+     </>
   );
 }
 
